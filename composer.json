@@ -22,7 +22,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Wael\\CustomCatalog\\": "src"
+      "Wael\\CustomCatalog\\": "src/"
     }
   },
   "minimum-stability": "dev",
