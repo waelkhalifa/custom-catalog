@@ -1,6 +1,6 @@
 {
   "name": "wael/custom-catalog",
-  "description": " Case Study",
+  "description": "Magento 2 Custom Catalog Case Study",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": "MIT",
@@ -22,7 +22,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Wael\\CustomCatalog\\": "src/"
+      "Wael\\CustomCatalog\\": ""
     }
   },
   "minimum-stability": "dev",
